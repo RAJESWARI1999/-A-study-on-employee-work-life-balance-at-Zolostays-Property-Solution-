@@ -32,13 +32,11 @@ Primary Data: Structured questionnaire
 
 Secondary Data: Company reports, journals, articles
 
-Sample Size: (Mention your sample size here)
-
 Tools Used:
 
 MS Excel
 
-Python (optional)
+SPSS
 
 Statistical techniques (percentage analysis, charts)
 
@@ -51,8 +49,6 @@ Flexible work policies positively influence job satisfaction
 Long working hours impact personal life balance
 
 Supportive management improves employee morale
-
-(You can customize findings based on your actual data)
 
 ✅ Suggestions & Recommendations
 
