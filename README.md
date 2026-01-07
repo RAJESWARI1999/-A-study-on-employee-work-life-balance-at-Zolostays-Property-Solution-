@@ -1,4 +1,4 @@
-📝 Project Overview
+#📝 Project Overview
 
 This project focuses on analyzing Employee Work–Life Balance (WLB) at ZoloStays Property Solutions, a leading co-living and property management organization in India. The study examines how organizational policies, workload, working hours, stress levels, and employee support systems impact overall job satisfaction and productivity.
 
