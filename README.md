@@ -1,85 +1,89 @@
-#📝 Project Overview
+# A Study On Employee Work Life Balance at ZoloStays Property Solutions
 
-This project focuses on analyzing Employee Work–Life Balance (WLB) at ZoloStays Property Solutions, a leading co-living and property management organization in India. The study examines how organizational policies, workload, working hours, stress levels, and employee support systems impact overall job satisfaction and productivity.
+## 📝 Project Overview
 
-The goal of this research is to identify key challenges affecting employees’ work–life balance and to provide data-driven recommendations for improving employee well-being and organizational performance.
+This project focuses on analyzing **Employee Work–Life Balance (WLB)** at **ZoloStays Property Solutions**, a leading co-living and property management organization in India. The study examines how organizational policies, workload, working hours, stress levels, and employee support systems impact overall job satisfaction and productivity.
 
-🎯 Objectives of the Study
+The objective of this research is to identify key challenges affecting employees’ work–life balance and to provide **data-driven recommendations** for improving employee well-being and organizational performance.
 
-To understand the current level of work–life balance among employees at ZoloStays
+---
 
-To analyze factors influencing work stress and job satisfaction
+## 🎯 Objectives of the Study
 
-To examine the impact of work–life balance on employee productivity and retention
+- To understand the current level of work–life balance among employees at ZoloStays  
+- To analyze factors influencing work stress and job satisfaction  
+- To examine the impact of work–life balance on employee productivity and retention  
+- To suggest effective strategies for improving work–life balance within the organization  
 
-To suggest strategies for improving work–life balance within the organization
+---
 
-🔍 Scope of the Study
+## 🔍 Scope of the Study
 
-Focuses on employees from different departments at ZoloStays
+- Focuses on employees from different departments at ZoloStays  
+- Covers working hours, workload, flexibility, stress, and personal life balance  
+- Uses both primary and secondary data sources for analysis  
 
-Covers aspects such as working hours, workload, flexibility, stress, and personal life balance
+---
 
-Uses primary and secondary data for analysis
+## 📚 Methodology
 
-📚 Methodology
+### Research Design
+- Descriptive Research
 
-Research Design: Descriptive Research
+### Data Collection
+- **Primary Data:** Structured questionnaire  
+- **Secondary Data:** Company reports, journals, research articles  
 
-Data Collection:
+### Tools Used
+- MS Excel  
+- SPSS  
+- Statistical techniques (percentage analysis, charts, graphs)  
 
-Primary Data: Structured questionnaire
+---
 
-Secondary Data: Company reports, journals, articles
+## 📈 Key Findings
 
-Tools Used:
+- Majority of employees experience **moderate work-related stress**  
+- Flexible work policies positively influence **job satisfaction**  
+- Long working hours negatively impact **personal life balance**  
+- Supportive management improves **employee morale and engagement**  
 
-MS Excel
+---
 
-SPSS
+## ✅ Suggestions & Recommendations
 
-Statistical techniques (percentage analysis, charts)
+- Introduce flexible working hours and hybrid work models  
+- Conduct regular employee wellness and stress-management programs  
+- Improve workload distribution across teams  
+- Promote work–life balance awareness initiatives  
 
-📈 Key Findings
+---
 
-Majority of employees experience moderate work-related stress
+## 🛠️ Tools & Technologies
 
-Flexible work policies positively influence job satisfaction
+- Microsoft Excel  
+- Python (Pandas, Matplotlib – if applicable)  
+- Data Visualization Techniques  
 
-Long working hours impact personal life balance
+---
 
-Supportive management improves employee morale
+## 📌 Conclusion
 
-✅ Suggestions & Recommendations
+The study highlights the importance of maintaining a healthy **work–life balance** for employees at ZoloStays. Implementing employee-friendly policies can significantly enhance productivity, reduce stress, and improve overall organizational effectiveness.
 
-Introduce flexible working hours and hybrid work options
+---
 
-Conduct regular employee wellness programs
+## 👩‍💻 Author
 
-Improve workload distribution across teams
+**Rajeswari S**  
+Data Analyst | Research Enthusiast  
 
-Promote work–life balance awareness initiatives
+---
 
-🛠️ Tools & Technologies
+## ⭐ Acknowledgement
 
-Microsoft Excel
+I would like to express my sincere gratitude to **ZoloStays Property Solutions** and all respondents who contributed valuable insights and support for this study.
 
-Python (Pandas, Matplotlib – if used)
+---
 
-Data Visualization Techniques
-
-📌 Conclusion
-
-The study highlights the importance of maintaining a healthy work–life balance for employees at ZoloStays. Implementing employee-friendly policies can enhance productivity, reduce stress, and improve organizational effectiveness.
-
-👩‍💻 Author
-
-Rajeswari S
-Data Analyst | Research Enthusiast
-
-⭐ Acknowledgement
-
-I would like to express my sincere gratitude to ZoloStays Property Solutions and all respondents who contributed valuable insights for this study.
-
-📢 If you likthis project, don’t forget to ⭐ the repository!
-
+📢 *If you like this project, don’t forget to ⭐ the repository!*
